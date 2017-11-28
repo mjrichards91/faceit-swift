@@ -49,6 +49,9 @@
                             <constraint firstItem="IWI-4m-cAO" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="ybg-sp-Uu8"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="faceView" destination="IWI-4m-cAO" id="hJ2-Zd-JzH"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
